@@ -1,0 +1,5 @@
+# conda create --name cub_data_science --file requirements.txt python=3.6
+pandas
+numpy
+tensorflow>=2.4.1
+matplotlib
