@@ -1,5 +1,11 @@
-# conda create --name cub_data_science --file requirements.txt python=3.6
+# conda create --name cub_data_science --file requirements.txt python=3.8
+# conda activate cub_data_science
+# conda install -c anaconda ipykernel
+# python -m ipykernel install --user --name=cub_data_science
 pandas
 numpy
 tensorflow>=2.4.1
 matplotlib
+notebook
+tqdm
+scikit-learn
