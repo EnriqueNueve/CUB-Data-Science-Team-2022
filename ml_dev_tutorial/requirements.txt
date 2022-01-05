@@ -9,3 +9,4 @@ matplotlib
 notebook
 tqdm
 scikit-learn
+dvc
