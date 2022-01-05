@@ -10,3 +10,4 @@ notebook
 tqdm
 scikit-learn
 dvc
+dvc[gdrive]
