@@ -1,0 +1,4 @@
+outs:
+- md5: 39e66e738356022e2ae5eed69a533aa2
+  size: 894102
+  path: test.tfrecord

@@ -1,0 +1,4 @@
+outs:
+- md5: 0fee6a7013ddd195390c3e7ea34e79ad
+  size: 4030014
+  path: train.tfrecord
