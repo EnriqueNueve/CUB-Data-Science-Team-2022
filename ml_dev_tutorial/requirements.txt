@@ -11,3 +11,5 @@ tqdm
 scikit-learn
 dvc
 dvc[gdrive]
+seaborn
+imblearn
