@@ -1,0 +1,6 @@
+# 1. pull docker image
+
+docker pull tensorflow/serving
+
+# 2. start container
+docker run -p 8501:8501 --mount type=bind,source=/Users/rick/Desktop/Boulder/Spring2022/data_science/workspace/CUB-Data-Science-Team-2022/ml_dev_tutorial/Model/Serving/tf_model,target=/models/bankmodel/ -e MODEL_NAME=bankmodel -t tensorflow/serving 

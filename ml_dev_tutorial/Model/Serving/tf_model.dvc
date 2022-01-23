@@ -1,0 +1,5 @@
+outs:
+- md5: a52069476ebef49fae035c8e179a09aa.dir
+  size: 259065
+  nfiles: 3
+  path: tf_model
