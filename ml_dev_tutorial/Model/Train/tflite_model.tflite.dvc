@@ -1,0 +1,4 @@
+outs:
+- md5: ae8037b6c3a17d39d926f27d2b20608c
+  size: 24384
+  path: tflite_model.tflite
