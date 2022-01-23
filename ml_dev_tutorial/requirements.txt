@@ -4,7 +4,7 @@
 # python -m ipykernel install --user --name=cub_data_science
 pandas
 numpy
-tensorflow>=2.4.1
+tensorflow==2.4.1
 matplotlib
 notebook
 tqdm
@@ -13,3 +13,5 @@ dvc
 dvc[gdrive]
 seaborn
 imblearn
+streamlit==1.4.0
+watchdog
