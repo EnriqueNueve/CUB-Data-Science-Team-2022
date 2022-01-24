@@ -27,7 +27,7 @@ if st.button('Press to run data through model'):
 
     # Call tf server
     headers = {"content-type": "application/json"}
-    json_response = requests.post('http://localhost:8502/v1/models/bankmodel:predict', data=data, headers=headers)
+    json_response = requests.post('http://localhost:8501/v1/models/bankmodel:predict', data=data, headers=headers)
     predictions = json.loads(json_response.text)['predictions']
 
     # show results

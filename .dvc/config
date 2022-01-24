@@ -1,0 +1,4 @@
+[core]
+    remote = cub_data_science_tut
+['remote "cub_data_science_tut"']
+    url = gdrive://1u-8M2DDhQV8WSNTXlQuPh8dIOVCU2MpJ
